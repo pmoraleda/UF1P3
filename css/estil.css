@@ -1,0 +1,39 @@
+div#contenidor{
+    margin: auto;
+    margin-top: 50px;
+    width: 960px;
+    height: 800px;
+    background-color: red;
+}
+div#dreta{
+    width: 300px;
+    height: 500px;
+    background-color: green;
+    float: left;
+    margin: -200px 0px 0px 0px;
+}    
+div#novetats{
+    width: 640px;
+    height: 200px;
+    background-color: blue;
+    float: right;
+}
+div#centro{
+    margin-top: 20px;
+    width: 640px;
+    height: 580px;
+    background-color: purple;
+    float: right;
+}
+div#groc{
+    margin-top: 20px;
+    width: 300px;
+    height: 280px;
+    background-color: yellow;
+    float: left;
+}
+/* 
+Pregunta 1: Perque utilitza l'ordre de l'html i no del css per aixo si esta primer pot variar si esta ultim.
+
+Pregunta 2: Posant floats per el posisionament i jugar em els margues per colocaro 
+*/
